@@ -3,18 +3,18 @@
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Gill Sans MS';
     justify-content: center;
     align-items: center;
     display: flex;
-    background: url(https://images.unsplash.com/photo-1519638399535-1b036603ac77?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background: url(https://4kwallpapers.com/images/walls/thumbs/19825.png);
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 
 #formulario {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 249, 249);
     padding: 30px 80px;
     border-radius: 5px;
     border: 2px solid  rgba(255, 255, 255, .2);
